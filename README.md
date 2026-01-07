@@ -45,3 +45,20 @@ Establish a secure AWS account foundation by protecting the root account and enf
 
 ![IAM Overview](screenshots/iam-overview.png)
 
+
+## 2️⃣ VPC Networking & Security
+
+**Purpose:**  
+Create a segmented and secure network environment to control traffic flow and minimize attack surface.
+
+**Key Configurations:**
+- Custom VPC created
+- Public and private subnets configured
+- Internet Gateway attached to public subnet
+- Route tables configured
+- Security groups restricting inbound access
+- NAT Gateway intentionally avoided for cost control
+
+**Screenshots:**
+- VPC Overview  
+
