@@ -101,3 +101,18 @@ Provide operational visibility and proactive alerting for compute resources.
 **Screenshots:**
 - CloudWatch Alarm  
 ![CloudWatch Alarm](screenshots/cloudwatch-alarm.png)  
+
+
+## 5️⃣ Backup & Recovery (EBS Snapshots)
+
+**Purpose:**  
+Validate backup and recovery capability for EC2 workloads.
+
+**Key Configurations:**
+- EBS snapshot created
+- Snapshot tagged for identification
+- Snapshot verified and deleted to avoid storage charges
+
+**Screenshots:**
+- EBS Snapshot  
+![EBS Snapshot](screenshots/ebs-snapshot.png)  
