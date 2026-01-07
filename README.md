@@ -15,6 +15,12 @@ The focus is on **security-first design**, **operational readiness**, **monitori
 - Enforce cost visibility and governance
 
 ---
+## Security & Privacy Notes
+
+- All screenshots have been sanitized
+- Public IPs, AWS account IDs, ARNs, and email addresses are redacted
+- No credentials, secrets, or access keys are stored in this repository
+  
 
 ## AWS Services Covered
 
@@ -150,3 +156,10 @@ Eliminate static credentials by providing EC2 instances with secure, role-based 
 **Screenshots:**
 - IAM Role Attached to EC2  
 ![IAM Role EC2](screenshots/iam-role-ec2.png)
+
+## Key Takeaways
+
+- Strong identity controls are the foundation of cloud security
+- Network segmentation reduces risk
+- Monitoring and backups are core operational requirements
+- Cost governance is essential in cloud environments
