@@ -62,9 +62,9 @@ Create a segmented and secure network environment to control traffic flow and mi
 **Screenshots:**
 - VPC Overview
 
-![VPC Overview](screenshots/vpc/vpc-overview.png)
+![VPC Overview](screenshots/vpc-overview.png)
 
 - Route Table Configuration
    
-![Route Tables](screenshots/vpc/route-tables.png) 
+![Route Tables](screenshots/route-tables.png) 
 
