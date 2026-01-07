@@ -149,4 +149,4 @@ Eliminate static credentials by providing EC2 instances with secure, role-based 
 
 **Screenshots:**
 - IAM Role Attached to EC2  
-![IAM Role EC2](screenshots/iam/iam-role-ec2.png)
+![IAM Role EC2](screenshots/iam-role-ec2.png)
