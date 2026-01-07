@@ -60,5 +60,11 @@ Create a segmented and secure network environment to control traffic flow and mi
 - NAT Gateway intentionally avoided for cost control
 
 **Screenshots:**
-- VPC Overview  
+- VPC Overview
+
+![VPC Overview](screenshots/vpc/vpc-overview.png)
+
+- Route Table Configuration
+   
+![Route Tables](screenshots/vpc/route-tables.png) 
 
