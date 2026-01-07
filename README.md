@@ -1,32 +1,23 @@
-# cloud-operations-labs
-Hands-on cloud and hybrid infrastructure labs focused on security, monitoring, backup, and cost-aware operations aligned with MSP and system engineering responsibilities.
+# AWS Cloud Operations Portfolio
 
-# Cloud & Hybrid Infrastructure Operations Portfolio
-
-This repository documents hands-on cloud and on-premises labs aligned with MSP and system engineering responsibilities.
+This repository documents hands-on AWS infrastructure labs designed to reflect real-world system engineering and MSP operational responsibilities.
 
 The focus is on:
-- Secure infrastructure design
-- Identity and access management
-- Monitoring and alerting
-- Backup and recovery
+- Account and identity security
+- Network segmentation and access control
+- Compute provisioning and troubleshooting
+- Monitoring, backup, and recovery
 - Cost visibility and governance
 
-These labs are designed to reflect real-world operational scenarios rather than certification-only examples.
+These labs prioritize secure design, operational readiness, and cost awareness rather than certification-only examples.
 
 ---
 
 ## Lab Index
 
-### On-Premises & Hybrid Labs
-- Secure Remote Access with pfSense & OpenVPN
-- Active Directory, DNS, DHCP & Group Policy
-- File Services & Access Control
-
-### AWS Cloud Labs
 - IAM & Account Security Baseline
 - VPC Networking & Security
-- EC2 Deployment & Troubleshooting
+- EC2 Windows Server Deployment
 - Monitoring & Alerting (CloudWatch)
 - Backup & Recovery (EBS Snapshots)
 - Cost Visibility & Governance
@@ -34,11 +25,11 @@ These labs are designed to reflect real-world operational scenarios rather than 
 
 ---
 
-## Tools & Technologies
-- pfSense
-- Windows Server
-- Windows 10
-- Active Directory
-- AWS (IAM, VPC, EC2, CloudWatch)
-- GitHub Documentation
-
+## AWS Services Used
+- IAM
+- VPC
+- EC2
+- CloudWatch
+- SNS
+- Cost Explorer
+- Budgets
