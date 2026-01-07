@@ -68,3 +68,24 @@ Create a segmented and secure network environment to control traffic flow and mi
    
 ![Route Tables](screenshots/route-tables.png) 
 
+
+## 3️⃣ EC2 Windows Server Deployment
+
+**Purpose:**  
+Deploy and securely access a Windows Server EC2 instance while maintaining cost awareness.
+
+**Key Configurations:**
+- Windows Server EC2 instance launched
+- Security group allowing RDP only from a restricted public IP
+- RDP access validated
+- Instance stopped when not in use to reduce costs
+
+**Screenshots:**
+- EC2 Instance State  
+![EC2 Instance](screenshots/ec2-instance.png)  
+
+
+- Security Group Inbound Rules  
+![EC2 Security Group](screenshots/ec2-security-group.png)  
+
+
