@@ -136,3 +136,17 @@ Prevent unexpected charges and enforce cost accountability.
 - Budget Alerts  
 ![AWS Budget](screenshots/aws-budget.png)  
 
+
+## 7️⃣ IAM Role for EC2 (Security Hardening)
+
+**Purpose:**  
+Eliminate static credentials by providing EC2 instances with secure, role-based access to AWS services.
+
+**Key Configurations:**
+- Custom IAM policy created
+- IAM role created and attached to EC2
+- Permissions validated without access keys
+
+**Screenshots:**
+- IAM Role Attached to EC2  
+![IAM Role EC2](screenshots/iam/iam-role-ec2.png)
