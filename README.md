@@ -115,4 +115,24 @@ Validate backup and recovery capability for EC2 workloads.
 
 **Screenshots:**
 - EBS Snapshot  
-![EBS Snapshot](screenshots/ebs-snapshot.png)  
+![EBS Snapshot](screenshots/ebs-snapshot.png)
+
+## 6️⃣ Cost Visibility & Governance
+
+**Purpose:**  
+Prevent unexpected charges and enforce cost accountability.
+
+**Key Configurations:**
+- Cost Explorer enabled
+- Monthly cost budget created
+- Budget alert thresholds configured
+- Resource tagging strategy applied
+
+**Screenshots:**
+- Cost Explorer Overview  
+![Cost Explorer](screenshots/cost-explorer.png)  
+
+
+- Budget Alerts  
+![AWS Budget](screenshots/aws-budget.png)  
+
