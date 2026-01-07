@@ -40,5 +40,6 @@ Establish a secure AWS account foundation by protecting the root account and enf
 - IAM Access Analyzer enabled
 
 **Screenshots:**
-- IAM Account Overview 
+- IAM Account Overview
+![IAM Overview](screenshots/iam-overview.png)
 
