@@ -25,3 +25,20 @@ The focus is on **security-first design**, **operational readiness**, **monitori
 - SNS
 - Cost Explorer
 - AWS Budgets
+
+## 1️⃣ IAM & Account Security Baseline
+
+**Purpose:**  
+Establish a secure AWS account foundation by protecting the root account and enforcing least-privilege access.
+
+**Key Configurations:**
+- Root MFA enabled
+- Root access keys deleted
+- IAM admin user created
+- IAM read-only user created
+- Password policy enforced
+- IAM Access Analyzer enabled
+
+**Screenshots:**
+- IAM Account Overview 
+
