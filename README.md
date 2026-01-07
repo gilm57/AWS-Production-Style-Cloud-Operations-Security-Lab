@@ -88,4 +88,16 @@ Deploy and securely access a Windows Server EC2 instance while maintaining cost 
 - Security Group Inbound Rules  
 ![EC2 Security Group](screenshots/ec2-security-group.png)  
 
+## 4️⃣ Monitoring & Alerting (CloudWatch)
 
+**Purpose:**  
+Provide operational visibility and proactive alerting for compute resources.
+
+**Key Configurations:**
+- CloudWatch metrics reviewed
+- CPU utilization alarm created
+- SNS email notification configured
+
+**Screenshots:**
+- CloudWatch Alarm  
+![CloudWatch Alarm](screenshots/cloudwatch-alarm.png)  
