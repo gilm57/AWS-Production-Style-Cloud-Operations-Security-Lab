@@ -1,4 +1,4 @@
-# AWS Cloud Operations Portfolio
+# AWS Production-Style Cloud Operations & Security Lab
 
 This repository documents hands-on AWS infrastructure labs aligned with system engineering and MSP operational responsibilities.
 
